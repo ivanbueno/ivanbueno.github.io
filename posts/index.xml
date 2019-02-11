@@ -17,8 +17,7 @@
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>//www.ivanbueno.com/posts/what-is-this-made-of/</guid>
-      <description>This site is made with Hugo. Hugo is a static site engine written in Go.
-It is hosted on Github Pages.</description>
+      <description>This website is made with Hugo, a static site engine written in Go, and hosted on Github Pages.</description>
     </item>
     
   </channel>
